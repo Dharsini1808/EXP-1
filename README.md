@@ -5,6 +5,7 @@ a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit.
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 
 APPARATUS REQUIRED:
+
 S.No.	Components	Range	Quantity
 1	Resistor	1kΩ	3
 2	Voltmeter (DC)	0-30V	3
@@ -14,12 +15,14 @@ S.No.	Components	Range	Quantity
 6	Connecting wires		As required
 
 THEORY:
-KVL: Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
+KVL:
+Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
 KCL:
 Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
 
 
 PROCEDURE:
+
 a.   KVL:
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
@@ -38,37 +41,43 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
-CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
 
 
 a.   KVL:
  
+<img width="987" height="586" alt="Screenshot 2026-10-11 175611" src="https://github.com/user-attachments/assets/80fa9a25-c1c8-4718-b403-b138d399ab0c" />
 
 
 b.  KCL:
  
+<img width="1035" height="605" alt="Screenshot 2026-10-11 181140" src="https://github.com/user-attachments/assets/d8c4683c-b9cc-469e-bf13-17c958f8a1f2" />
 
 Calculation:
 
 a.   KVL:
  
+<img width="899" height="1599" alt="WhatsApp Image 2026-10-11 at 18 22 05" src="https://github.com/user-attachments/assets/7bff27f2-e1fc-4ab3-9dc5-dc3e29d36b8e" />
 
 
 b.  KCL:
 
+<img width="899" height="1599" alt="WhatsApp Image 2026-10-11 at 18 23 02" src="https://github.com/user-attachments/assets/7f875aa3-4763-4763-9584-6b9238885780" />
 
+<img width="899" height="1599" alt="WhatsApp Image 2026-10-11 at 18 23 02" src="https://github.com/user-attachments/assets/aed292c7-dcf8-450c-9aed-315415cc331c" />
 
 
 Tabulation:
 
 a.   KVL:
  
+<img width="899" height="1599" alt="WhatsApp Image 2026-10-12 at 12 58 18" src="https://github.com/user-attachments/assets/4172961b-5c83-42b4-b5a6-685d668221c0" />
 
 
 b.  KCL:
 
+<img width="899" height="1599" alt="WhatsApp Image 2026-10-12 at 12 58 27" src="https://github.com/user-attachments/assets/088746f5-25e2-4e6b-a6b9-8cce8a3ed658" />
 
 
 RESULT:
